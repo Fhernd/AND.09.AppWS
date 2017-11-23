@@ -1,0 +1,11 @@
+co\ortizol\dao\IDAO.class
+co\ortizol\modelos\Tarea.class
+co\ortizol\recursos\TareasRecurso.class
+co\ortizol\modelos\Asignatura.class
+co\ortizol\dao\DAOTarea.class
+co\ortizol\dao\Conexion.class
+co\ortizol\modelos\Usuario.class
+co\ortizol\recursos\UsuariosRecurso.class
+co\ortizol\dao\DAOAsignatura.class
+co\ortizol\dao\DAOUsuario.class
+co\ortizol\recursos\AsignaturasRecurso.class
